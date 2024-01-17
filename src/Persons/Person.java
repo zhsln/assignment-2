@@ -32,7 +32,7 @@ public class Person implements Payable, Comparable<Person> {
     }
 
     public String getPosition() {
-        return "Student";
+        return "Student"; // returns "Student" for default. It is overrided in Employee subclass
     }
 
     // getters and setters
