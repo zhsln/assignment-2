@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c473fa96-e4e8-44f6-a1b1-c6b7b95a3b33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abdigaliyev_Zhasulan_Assignment_2_OOP.iml" afterDir="false" />
+    <list default="true" id="c473fa96-e4e8-44f6-a1b1-c6b7b95a3b33" name="Changes" comment="Assignment 2 by Zhasulan Abdigaliyev from SE-2304.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +22,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zhsln"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d1423ce8-205c-428e-b035-e6d72cca62d0" />
+        <option name="url" value="https://github.com/zhsln/assignment-2.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -73,11 +82,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705285317409</updated>
-      <workItem from="1705285318500" duration="5277000" />
+      <workItem from="1705285318500" duration="5689000" />
     </task>
+    <task id="LOCAL-00001" summary="Assignment 2 by Zhasulan Abdigaliyev from SE-2304.">
+      <option name="closed" value="true" />
+      <created>1705290791827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705290791827</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Assignment 2 by Zhasulan Abdigaliyev from SE-2304.">
+      <option name="closed" value="true" />
+      <created>1705290920289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705290920289</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment 2 by Zhasulan Abdigaliyev from SE-2304." />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 2 by Zhasulan Abdigaliyev from SE-2304." />
   </component>
 </project>

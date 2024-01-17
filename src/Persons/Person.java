@@ -31,9 +31,9 @@ public class Person implements Payable, Comparable<Person> {
         return Double.compare(this.getPaymentAmount(), anotherPerson.getPaymentAmount());
     }
 
-    /*public String getPosition() {
-        return "Student"
-    }*/
+    public String getPosition() {
+        return "Student";
+    }
 
     // getters and setters
     public int getId() {
