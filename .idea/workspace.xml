@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c473fa96-e4e8-44f6-a1b1-c6b7b95a3b33" name="Changes" comment="Assignment 2 by Zhasulan Abdigaliyev from SE-2304.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Persons/Payable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Persons/interfaces/Payable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Persons/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Persons/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Persons/subclasses/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Persons/subclasses/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Persons/subclasses/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Persons/subclasses/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "zhsln"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zhsln&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -37,9 +42,9 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ayKKDkWVIu8FppgTlfew6gyMa2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -48,25 +53,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/zhasu/IdeaProjects/Abdigaliyev_Zhasulan_Assignment_2_OOP/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/zhasu/IdeaProjects/Abdigaliyev_Zhasulan_Assignment_2_OOP/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,6 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1705285317409</updated>
       <workItem from="1705285318500" duration="5689000" />
+      <workItem from="1705503335872" duration="556000" />
+      <workItem from="1705911651074" duration="1493000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment 2 by Zhasulan Abdigaliyev from SE-2304.">
       <option name="closed" value="true" />
@@ -100,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705290920289</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Assignment 2 by Zhasulan Abdigaliyev from SE-2304.">
+      <option name="closed" value="true" />
+      <created>1705503428141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705503428142</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Assignment 2 by Zhasulan Abdigaliyev from SE-2304.">
+      <option name="closed" value="true" />
+      <created>1705503557135</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705503557135</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -24,6 +24,8 @@ public class Main {
         // printing the list...
         printData(personsList);
     }
+
+    // printData() method prints information about payment amount of every Person from "persons" arraylist.
     public static void printData(Iterable<Person> persons) {
         for (Person person : persons) {
             System.out.println(person + " earns " + String.format("%.2f", person.getPaymentAmount())+ " tenge.");
